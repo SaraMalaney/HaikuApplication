@@ -1,0 +1,23 @@
+examine,p,3,verb
+plays,s,1,verb
+eats,s,1,verb
+work,p,1,verb
+consumes,s,2,verb
+build,p,1,verb
+wears,s,1,verb
+goes to,s,2,verb
+lick,p,1,verb
+ponders,s,2,verb
+is,s,1,verb
+are,p,1,verb
+drink,p,1,verb
+drinks,s,1,verb
+sing,p,1,verb
+sings,s,1,verb
+waddles,s,2,verb
+desides to,s,3,verb
+licks,s,1,verb
+want,p,1,verb
+wants to,s,2,verb
+shivers,s,2,verb
+shiver,p,2,verb

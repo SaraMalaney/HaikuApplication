@@ -1,0 +1,5 @@
+c:\users\thinkpad\documents\visual studio 2010\Projects\HaikuApplication\HaikuApplication\bin\Debug\HaikuApplication.exe
+c:\users\thinkpad\documents\visual studio 2010\Projects\HaikuApplication\HaikuApplication\bin\Debug\HaikuApplication.pdb
+c:\users\thinkpad\documents\visual studio 2010\Projects\HaikuApplication\HaikuApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2010\Projects\HaikuApplication\HaikuApplication\obj\x86\Debug\HaikuApplication.exe
+c:\users\thinkpad\documents\visual studio 2010\Projects\HaikuApplication\HaikuApplication\obj\x86\Debug\HaikuApplication.pdb
